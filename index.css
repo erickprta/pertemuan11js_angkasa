@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+button, input, select {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+}
+
+#btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#key {
+    border: 1px solid #ccc;
+}
+
+#warna {
+    background-color: #f1c40f;
+}
+
+#key_2 {
+    padding: 20px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 10px;
+}
